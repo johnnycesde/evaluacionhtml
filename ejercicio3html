@@ -5,10 +5,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        #mi-id {
+          color: rgb(51, 255, 0);
+        }
+      </style>
+
 </head>
-
+<title>Mi página web</title>
+<link rel="stylesheet" href="mi-estilo.css">
 <body>
-
+    <h1 id="mi-id">selector de identificacion</h1>
     <h1>Ejercicio 3</h1>
     <!-- CSS externo -->
     <!-- Selectores de identificación -->
@@ -16,6 +23,7 @@
     <!-- Atributos CSS: Border, position, z-index, cursor  -->
     <div>
         <!-- Tu solución aquí  -->
+        <h1>CSS externo</h1>
     </div>
 </body>
 

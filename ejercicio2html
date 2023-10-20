@@ -11,7 +11,7 @@
       color: rgb(48, 175, 2);
     }
   </style>
-  <img src="mi-imagen.jpg" style="border: 1px solid black;">
+  <img src="c:\Users\Johny\Downloads\licor2.jpg" style="border: 1px solid black;">
 <body>
     <h1 style="color: red;">Este es un título</h1>
     <h1>CSS inline es útil para aplicar estilos únicos a elementos HTML individuales. Sin embargo, no se recomienda usar
